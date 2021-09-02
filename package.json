@@ -1,0 +1,19 @@
+{
+  "name": "@czemar/date",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/czemar"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/czemar/date.git"
+  },
+  "dependencies": {
+    "dayjs": "^1.10.5"
+  },
+  "bugs": {
+    "url": "https://github.com/czemar/date/issues"
+  }
+}
